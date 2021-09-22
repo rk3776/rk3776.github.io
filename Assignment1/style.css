@@ -1,0 +1,222 @@
+/* CSS Design for All Page */
+html
+{
+	margin: 0;
+}
+
+/* CSS Design for Body for each page */
+body
+{
+	margin: 0;
+	background-color: white;
+	font-family: "Bebas Neue", sans-serif;
+}
+
+/* CSS Design for H1 (heading 1) */
+h1
+{
+	margin: 0;
+	text-align: center;
+	z-index: 1;
+	background-color: #4B6587;
+	font-size: 4em;
+	color: white;
+}
+
+/* CSS Design for H2 (heading 2) */
+h2
+{
+	margin: 0;
+	text-align: center;
+}
+
+/* CSS Design*/
+a{
+	text-align: center;
+	text-decoration: none;
+	color: #ead3a0;
+	font-size: 3.5em;
+	font-family: "Bebas Neue", sans-serif;
+}
+
+a:hover /* CSS Design to Change color of text when mouse hovers*/
+{
+	color: #F8F0DF;
+}
+
+/* CSS Design for Img */
+img
+{
+  position: absolute;
+  left: 15px;
+  top: 20px;
+  z-index: 0;
+}
+
+
+/* CSS Design for About page text */
+.about
+{
+	position: relative;
+	left: 100px;
+	width: 70%;
+	font-family: "Roboto", sans-serif;
+	padding: 100px;
+	font-size: 2em;
+	margin: 0;
+}
+
+/* CSS Design to center elements */
+.center
+{
+  text-align: center;
+}
+
+/* CSS Design for Video in Home Page */
+.video
+{
+	text-align: center;
+	margin: 5;
+}
+
+
+/* CSS Design for Footer */
+.footer
+{
+	position: relative;
+	left: 0;
+	bottom: 0;
+	width: 98.5%;
+	height: 40px;
+	background-color: #4B6587;
+	float: none;
+	padding-top: 25px;
+	padding-left: 15px;
+	margin-top: 50px;
+	color: white;
+
+}
+
+/* CSS Design for gallery in Gallery Page */
+.gallery
+{
+	position: relative;
+	text-align: center;
+
+}
+
+/* CSS Design for Button in Home Page */
+.button
+{
+  text-align: center;
+
+}
+
+/* CSS Design for Release Date */
+.release
+{
+	text-align: center;
+	color:white;
+	font-size: 3em;
+}
+
+/* CSS Design for Actor */
+.actor1
+{
+	position: absolute;
+	left: 70px;
+	top: 200px;
+	font-size: 4vw;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	width: 20%;
+	height: auto;
+	margin: 0;
+	z-index:0;
+}
+
+/* CSS Design for Actor */
+.actor2
+{
+	position: absolute;
+	left: 650px;
+	top: 1100px;
+	font-size: 4vw;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	width: 20%;
+	height: auto;
+}
+
+/* CSS Design for Actor */
+.actor1_1
+{
+	position: absolute;
+	left: 70px;
+	top: 350px;
+	font-size: 1.5vw;
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+	padding: 0;
+	border: 0;
+	width: 40%;
+	z-index:1;
+}
+
+/* CSS Design for Actor */
+.actor2_1
+{
+	position: absolute;
+	left: 650px;
+	top: 1200px;
+	font-size: 1.5vw;
+	margin: 0;
+	font-family: "Roboto", sans-serif;
+	border: 0;
+	padding: 0;
+	width: 45%;
+	z-index:1;
+}
+
+/* CSS Design for Video */
+.video_1
+{
+	position: relative;
+	left: 7%;
+	top: 100px;
+	z-index: 0;
+	padding: 0;
+	width: 50%;
+}
+
+/* CSS Design for Video */
+.video_2
+{
+	position: relative;
+	left: 50%;
+	bottom: 206px;
+	z-index: 0;
+	padding: 0;
+	width: 50%;
+}
+
+/* CSS Design for Video */
+.button
+{
+  background-color: #ead3a0;
+  position: relative;
+  left: 44%;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+}
+
+
+
+
+
